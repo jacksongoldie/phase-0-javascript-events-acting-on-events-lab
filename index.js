@@ -1,4 +1,3 @@
-// Your code here
 
 //grab dodger element by id to manipulate
 const dodger = document.getElementById("dodger");
